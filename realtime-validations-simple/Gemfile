@@ -11,4 +11,4 @@ end
 
 gem 'jquery-rails'
 
-gem 'realtime-validations', '~> 0.2.3'
+gem 'realtime-validations', :git => 'git://github.com/ereslibre/realtime-validations.git'
